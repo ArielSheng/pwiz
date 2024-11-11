@@ -295,7 +295,7 @@ namespace MSConvertGUI
             this.FilterDGV.RowHeadersWidth = 62;
             this.FilterDGV.RowTemplate.Height = 24;
             this.FilterDGV.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.FilterDGV.Size = new System.Drawing.Size(887, 292);
+            this.FilterDGV.Size = new System.Drawing.Size(881, 292);
             this.FilterDGV.TabIndex = 12;
             // 
             // OptionTab
@@ -372,7 +372,7 @@ namespace MSConvertGUI
             this.FilterGB.Margin = new System.Windows.Forms.Padding(0, 5, 0, 5);
             this.FilterGB.Name = "FilterGB";
             this.FilterGB.Padding = new System.Windows.Forms.Padding(5);
-            this.FilterGB.Size = new System.Drawing.Size(887, 351);
+            this.FilterGB.Size = new System.Drawing.Size(881, 351);
             this.FilterGB.TabIndex = 9;
             this.FilterGB.TabStop = false;
             this.FilterGB.Text = "Filters";
@@ -493,7 +493,7 @@ namespace MSConvertGUI
             this.SubsetPanel.Location = new System.Drawing.Point(37, 71);
             this.SubsetPanel.Margin = new System.Windows.Forms.Padding(5);
             this.SubsetPanel.Name = "SubsetPanel";
-            this.SubsetPanel.Size = new System.Drawing.Size(815, 223);
+            this.SubsetPanel.Size = new System.Drawing.Size(809, 223);
             this.SubsetPanel.TabIndex = 6;
             this.SubsetPanel.Visible = false;
             // 
@@ -1630,7 +1630,7 @@ namespace MSConvertGUI
             // RemoveFilterButton
             // 
             this.RemoveFilterButton.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.RemoveFilterButton.Location = new System.Drawing.Point(449, 360);
+            this.RemoveFilterButton.Location = new System.Drawing.Point(447, 360);
             this.RemoveFilterButton.Margin = new System.Windows.Forms.Padding(5);
             this.RemoveFilterButton.Name = "RemoveFilterButton";
             this.RemoveFilterButton.Size = new System.Drawing.Size(97, 35);
@@ -1642,7 +1642,7 @@ namespace MSConvertGUI
             // AddFilterButton
             // 
             this.AddFilterButton.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.AddFilterButton.Location = new System.Drawing.Point(351, 360);
+            this.AddFilterButton.Location = new System.Drawing.Point(349, 360);
             this.AddFilterButton.Margin = new System.Windows.Forms.Padding(5);
             this.AddFilterButton.Name = "AddFilterButton";
             this.AddFilterButton.Size = new System.Drawing.Size(88, 35);
